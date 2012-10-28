@@ -90,7 +90,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		cout << *list_i << endl;
 	}
 
-	// USING THE list CLASS
+	// USING THE deque CLASS
 	cout << "\nusing the deque class" << endl;
 
 	deque<double> myDeque(4, 5.2);
